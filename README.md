@@ -2,7 +2,7 @@ Word Cloud and Sentiment Analysis on Amazon Book Reviews
 
 **Overview**
 
-This GitHub repository contains code for a comprehensive analysis of a sizable dataset comprising 212,404 books on Amazon, spanning the years 1996 to 2014. The dataset includes a whopping 142.8 million reviews, forming the basis for insightful visualizations and predictive models.
+This GitHub repository contains code for a comprehensive analysis of a sizable dataset comprising 212,404 books on Amazon, spanning the years 1996 to 2014. The dataset includes a whopping 142.8 million reviews, forming the basis for insightful visualizations and predictive models. Due to its size, I couldn't upload the file.
 
 **Objective**
 
